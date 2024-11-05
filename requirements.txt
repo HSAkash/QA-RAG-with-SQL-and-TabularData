@@ -1,0 +1,14 @@
+dvc
+gradio
+langchain
+langchain_community
+langchain_core
+notebook
+pandas
+pyprojroot
+python-box==6.0.2
+python-dotenv
+PyYAML
+SQLAlchemy
+openai
+-e .
